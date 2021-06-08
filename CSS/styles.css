@@ -1,0 +1,105 @@
+.top-container{
+    
+    padding: 10px;
+    background-color: #bbe1fa;
+    position:relative;
+    padding-top: 100px;
+}
+
+.Aziz{
+    display: none;
+}
+    
+
+
+
+
+body{
+    margin: 0;
+    text-align:center;
+}
+
+h1{
+    font-size: 90px ;
+    
+    margin: 50px auto 0 auto;
+    font-family: 'Pacifico', cursive;
+    color: #66BFBF;
+    
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: #11999E;
+    
+}
+
+h2{
+    font-family: 'Bree Serif', serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+p{
+   
+    font-size: 1rem;
+}
+
+.Stud{
+    text-decoration: underline;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 500px;
+    top: 50px;
+    
+}
+
+a{
+    color: #11999E;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;    
+    line-height: 2;
+}
+
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin: 30px;
+    
+}
+
+.btn{
+    background-color: rgb(4, 245, 193);
+    padding: 20px;
+    line-height: 3;
+    border-radius: 10px;
+}
+
+a:hover{
+    color: white;
+    background-color: teal;
+}
+
+.bottom-container{
+    background-color: yellow;
+}
+    
